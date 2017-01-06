@@ -7,3 +7,6 @@ This project is mainly about learning to use Git and get used of it.
 
 ##First Modification
 Do the first modification.
+
+##Second Modification
+Do the second modification.
